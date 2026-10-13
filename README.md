@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Leaf-Patterned Ring
+# A Wide Wavy-Edged Ring with an Engraved Leaf-Star Pattern
 
 ## Summary
 
----
+Rings are one of the oldest and most personal forms of jewelry, and surface patterns are what give each one its character. Leaves are a popular motif because they are simple, natural, and easy to repeat. This project explores how a leaf-inspired pattern can be arranged around a wide ring band.
 
-## Design Motivation
+The ring is a wide band with a gently wavy top and bottom edge, so the outline of the ring itself looks soft and organic. The outer surface carries a repeating pattern of pointed, petal-like leaves that meet around central points and form star-shaped clusters. The pattern is recessed into the surface, which creates a contrast between the raised metal and the deeper engraved areas, while the inner surface is left smooth for comfort. The main challenge was to make the leaf clusters repeat evenly around the curved band so that the pattern closes without gaps or uneven spacing.
 
-| Name | Image |
-| :--: | :---: |
+The ring was developed as a computational model in SolidWorks. The views below show the band, the wavy edge, and the leaf pattern from every side, along with a section view that shows the thickness of the ring. This prototype is a base concept design that can be developed further into a real piece of jewelry.
 
 ---
 
@@ -26,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
