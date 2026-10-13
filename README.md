@@ -1,13 +1,17 @@
-# Computational Design of Leaf Pattern on Ring
+# Concept Design Prototype of a Leaf-Patterned Ring
 
 ## Summary
+
+---
 
 ## Design Motivation
 
 | Name | Image |
 | :--: | :---: |
 
-## CAD Design
+---
+
+## Computational Design
 
 |   View    |                               Image                               |
 | :-------: | :---------------------------------------------------------------: |
@@ -20,16 +24,41 @@
 |  Bottom   |    ![Bottom View](images/leaf_pattern_on_ring_bottom_view.JPG)    |
 |  Section  |   ![Section View](images/leaf_pattern_on_ring_section_view.JPG)   |
 
+---
+
 ## Technologies Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
 
-## Applications
+---
+
+## Applications [^1][^2]
+
+- Wedding Bands
+- Engagement Ring Settings
+- Promise Rings
+- Everyday Nature-Inspired Jewelry
+- Couples' Matching Ring Sets
+- Custom Made-to-Order Jewelry
+
+---
 
 ## Design Limitations
 
+The design of the ring was developed as a prototype product. That’s why the real-life design considerations, including ring-size standards, metal selection, wall thickness for casting, comfort, hallmarking, proper design specification, monetization, and feasibility, have not been included.
+
+---
+
 ## Future Improvements
 
+The leaf pattern was modeled by hand on the ring band, so it is difficult to change the leaf size, count, or spacing. A parametric pattern or an automated wrap tool would make sizing and design variations much easier. Real jewelry also needs ring-size standards, a metal selection (yellow, white, or rose gold or platinum), and a decision on setting or engraving depth. The model could also be prepared for casting or 3D printing in wax and checked for minimum wall thickness.
+
+---
+
 ## References
+
+[^1]: [Leaf engagement rings](https://www.gabrielny.com/engagement-rings/leaf)
+
+[^2]: [Leaf and Vine Wedding Rings](https://krikawa.com/unique-wedding-bands/nature-rings/leaf-wedding-rings)
