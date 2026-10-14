@@ -88,3 +88,9 @@ The leaf pattern was modeled by hand on the ring band, so it is difficult to cha
 [^1]: [Leaf engagement rings](https://www.gabrielny.com/engagement-rings/leaf)
 
 [^2]: [Leaf and Vine Wedding Rings](https://krikawa.com/unique-wedding-bands/nature-rings/leaf-wedding-rings)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
