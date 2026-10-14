@@ -54,7 +54,7 @@ The ring was developed as a computational model in SolidWorks. The views below s
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![Image of the Tool Used](images/leaf_pattern_on_ring_tool_used.png)
 
