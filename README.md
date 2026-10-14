@@ -35,22 +35,28 @@ The ring was developed as a computational model in SolidWorks. The views below s
 
 ## Tools Used
 
-| No  | Name |
-| :-: | :--: |
-| 01  |      |
-| 02  |      |
-| 03  |      |
-| 04  |      |
-| 05  |      |
-| 06  |      |
-| 07  |      |
-| 08  |      |
-| 09  |      |
-| 10  |      |
+| No  |       Name       |
+| :-: | :--------------: |
+| 01  |   Boss Extrude   |
+| 02  |    Split Line    |
+| 03  |   Delete Face    |
+| 04  |   Surface Fill   |
+| 05  | Variable Fillet  |
+| 06  |  Body Move/Copy  |
+| 07  |     Combine      |
+| 08  |      Mirror      |
+| 09  | Circular Pattern |
+| 10  |     Chamfer      |
+| 11  |       Flex       |
+| 12  |      Mirror      |
+| 13  |      Fillet      |
+| 14  |      Scale       |
 
 ---
 
 ## Image of the Tool Used
+
+![Image of the Tool Used](images/leaf_pattern_on_ring_tool_used.png)
 
 ---
 
